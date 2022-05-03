@@ -9,3 +9,5 @@
 - `DW04_Text_Feature_Representation`: Generating features representation for text, including **Removing Words with Non-alphabetic Characters**, **Removing the Most and Less Frequent Words**, **Creating Count Vectors**, **Creating TF-IDF Vectors**, **Saving Pre-processed Text to a File**, **Extracting Nouns and Verbs**, **Extracting N-grams and Collocations**.
 
 - `DW05_Process_Tweets`: Processing tweets, including **Collecting tweets from API**, **Loading Tweets from a Dump File**, **Process Emoticons**, **Tokenizing Tweet Text**, **Pre-processing Tweet for Sentiment Analysis**.
+
+- `DW06_Data_Auditing`: Data Auditing of **Syntactic Anomalies** and **Semantic Anomalies** for Titanic Data.
