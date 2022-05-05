@@ -15,3 +15,5 @@
 - `DW07_Missing_Value`: Investigate **missing values and Imputation** for Titanic Data.
 
 - `DW08_Imputation_Linear_Regression`: Using Linear Regression to impute missing value for Boston house prices data.
+
+- `DW09_Outlier`: Detect outlier using boxplot visulization.
