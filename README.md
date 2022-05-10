@@ -1,4 +1,4 @@
-# Data Wangling and Text Analysis with Python
+# Data Wangling with Python
 
 - `DW01_Parsing_Data`: Parsing data in **CSV**, **JSON**, **XML**, **PDF**.
 
