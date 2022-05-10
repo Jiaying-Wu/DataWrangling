@@ -17,3 +17,5 @@
 - `DW08_Imputation_Linear_Regression`: Using Linear Regression to impute missing value for Boston house prices data.
 
 - `DW09_Outlier`: Detect outlier using boxplot visulization.
+
+- `DW10_Data_Integration`: Data Integration with Household heating data.
