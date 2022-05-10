@@ -132,3 +132,13 @@ dmypy.json
 *.json
 *.csv
 *.p
+data/.DS_Store
+*.dbf
+*.shp
+*.shx
+*.CPG
+*.prj
+*.sbn
+*.sbx
+*.xml
+*.sqlite
