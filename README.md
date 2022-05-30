@@ -18,6 +18,8 @@
 
 - `DW09_Outlier`: Detect outlier using boxplot visulization.
 
-- `DW10_Data_Integration`: Data Integration with Household heating data.
+- `DW10_Heat_Map`: Data Integration with Household heating data and create heat map.
 
-- `DW11_Visualize_Map`: Process geospatial data and create interactive map for United States Geological Survey (USGS) dataset from SQLite database. 
+- `DW11_Interactive_Map`: Process geospatial data and create interactive map for United States Geological Survey (USGS) dataset from SQLite database. 
+
+- `DW12_Data_Merge`: Data **Merging**, **Joing** and **Reshaping** with pandas.
