@@ -27,3 +27,6 @@
 - `DW13_Data_Scaling`: Data **Scaling** using **StandardScaler**, **MinMaxScaler** and **PowerTransformer** for California housing dataset.
 
 - `DW14_Data_Sampling`: Using **Random sampling** and **Stratified sampling** to sample data from wine dataset.
+
+- `DW15_Data_Discretisation`: Data **Discretization** with **Binning**.
+
