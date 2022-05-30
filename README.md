@@ -23,3 +23,5 @@
 - `DW11_Interactive_Map`: Process geospatial data and create interactive map for United States Geological Survey (USGS) dataset from SQLite database. 
 
 - `DW12_Data_Merge`: Data **Merging**, **Joing** and **Reshaping** with pandas.
+
+- `DW13_Data_Scaling`: Data **Scaling** using **StandardScaler**, **MinMaxScaler** and **PowerTransformer** for California housing dataset.
