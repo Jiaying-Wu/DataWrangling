@@ -25,3 +25,5 @@
 - `DW12_Data_Merge`: Data **Merging**, **Joing** and **Reshaping** with pandas.
 
 - `DW13_Data_Scaling`: Data **Scaling** using **StandardScaler**, **MinMaxScaler** and **PowerTransformer** for California housing dataset.
+
+- `DW14_Data_Sampling`: Using **Random sampling** and **Stratified sampling** to sample data from wine dataset.
